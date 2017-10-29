@@ -1,0 +1,44 @@
+#body{
+	background-image:url('bg1.jpg');
+	background-position:fixed;
+	background-repeat:no-repeat;
+	margin:0px auto;
+	
+}
+
+#login_form input{
+	font-family:verdana;
+	font-size:14px;
+	border-radius:5px;
+	
+}
+#login_form{
+	float:right;
+	font-family:verdana;
+	margin:20px;
+}
+#signup_form input,textarea{
+	font-size:24px;
+	font-family:sans-serif;
+	border-radius:5px;
+	margin:12px;
+}
+nav{
+	width:100%;
+	display:block;
+	height:60px;
+}
+#signup{
+	margin:20px;
+	font-family:verdana;
+	font-size:15px;
+	color:white;
+}
+#error{
+	color:red;
+	font-size:15px;
+}
+#login_error{
+	color:red;
+	float:right;
+}
