@@ -1,16 +1,16 @@
 # Projects
 
 It contains different projects based on different technologies.  
-It has college based projects.
+It has college(ug) based projects.
 
 Contents
 ---
 * [**Hotel Management System**](https://github.com/Ankesh11/Projects/tree/master/Hotel%20Management%20System)    
-  This project is made using HTML, CSS, JavaScript, Php and Mysql.  
+  This project is made using `HTML`, `CSS`, `JavaScript`, `Php` and `Mysql`.  
   You can run this project using local server software [*Wamp*](http://www.wampserver.com/en/).
 
 * [**Restaurent Billing System**](https://github.com/Ankesh11/Projects/tree/master/Restaurant%20Billing%20System)  
-  This project is made using JAVA.  
+  This project is made using `JAVA`.  
   You can run this project using Eclipse ide.
 
 Contributor
