@@ -8,7 +8,7 @@ How To Run
 1. Download the project from GitHub using download option
 2. Download local server [wamp](http://www.wampserver.com/en/)   
 3. Make a folder(say hms) in C:\wamp64\www or C:\wamp32\www    
-4. Copy all the codes file to hms 
+4. Copy all the file from "Codes" to hms 
 5. Open wamp application    
 6. Type localhost in browser address bar and go to phpmyadmin and create two databases naming db1 and db2
 7. From project's database folder copy all the files of db1 in C:\wamp64\bin\mysql\mysql5.7.19\data\db1 and db2 in C:\wamp64\bin\mysql\mysql5.7.19\data\db2  
